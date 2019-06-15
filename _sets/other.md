@@ -1,4 +1,4 @@
 ---
-title: other
-description: placeholder
+title: basics
+description:
 ---
