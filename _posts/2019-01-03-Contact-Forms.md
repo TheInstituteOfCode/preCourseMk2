@@ -2,7 +2,7 @@
 date: 2017-01-15
 title: Contact Forms
 video_id: Gc2d-eGSSdQ
-description: troubleshooting 101
+description: for when you want to get information off of people
 categories:
   - basics
 resources:
@@ -12,7 +12,7 @@ resources:
     link: https://github.com/CloudCannon/bakery-store/tree/layouts
 type: Document
 set: basics
-set_order: 1
+set_order: 2
 ---
 To create a form we use the ```<form>``` element (pretty simple hey?). We’ll wrap all of the form fields inside of the form element.
 

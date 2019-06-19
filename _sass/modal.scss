@@ -7,8 +7,6 @@
 	background: rgba(0,0,0,0.6);
 	z-index: 99999;
 	opacity:0;
-	-webkit-transition: opacity 200ms ease-in;
-	-moz-transition: opacity 200ms ease-in;
 	transition: opacity 200ms ease-in;
 	pointer-events: none;
 
@@ -61,4 +59,16 @@
 		z-index: 99;
 		font-size: 30px;
 	}
+}
+
+.grid.example{
+	border: 1px solid black;
+	padding: 1%;
+}
+
+.grid.example > div{
+
+	border: 1px solid black;
+transform: scale(.9);
+padding: 1rem;
 }

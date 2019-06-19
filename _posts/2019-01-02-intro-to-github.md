@@ -12,7 +12,7 @@ resources:
     link: https://github.com/CloudCannon/bakery-store/tree/layouts
 type:  Document
 set: basics
-set_order: 1
+set_order: 2
 ---
 This section is a bit more advanced, and you might not understand everything right away – that’s ok, just having some exposure to the concepts will help it to sink in faster during class.
 

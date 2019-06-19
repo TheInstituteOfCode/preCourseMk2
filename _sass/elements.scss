@@ -34,6 +34,14 @@ ul, ol {
 	}
 }
 
+table{
+	border-collapse: collapse;
+}
+td{
+	padding: 5px;
+	border: 1px solid black;
+}
+
 code, pre, tt {
 	font-family: Inconsolata,Consolas,Courier,"Courier New","Liberation Mono",monospace;
 	font-size: .9em;
